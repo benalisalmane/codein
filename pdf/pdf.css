@@ -39,7 +39,7 @@ body[data-type="book"] > figure[data-type="cover"] + section {
 
 @page :left {
   margin-left: 1.625in;
-  margin-right: 1in;
+  margin-right: 1.625in;
   @bottom-left-corner {
     font-family: SourceSansPro, sans-serif, ArialUnicodeMS;
     font-size: 9pt;
@@ -59,7 +59,7 @@ body[data-type="book"] > figure[data-type="cover"] + section {
 
 @page :right {
   margin-right: 1.625in;
-  margin-left: 1in;
+  margin-left: 1.625in;
   @bottom-right-corner {
     font-family: SourceSansPro, sans-serif, ArialUnicodeMS;
     font-size: 9pt;
