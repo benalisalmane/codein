@@ -1082,6 +1082,7 @@ pre { /* code blocks */
   line-height: 11pt;
   margin: 12pt 0 12pt 0.167in;
   -ah-ignore-leading-newline: true;
+  background-color: rgb(51, 51, 51);
 }
 
 code { font-size: 107%; }
